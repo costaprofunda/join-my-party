@@ -1,0 +1,25 @@
+{
+  "name": "join-my-party-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for JoinMyParty",
+  "main": "joinMyApp/index.html",
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "preupdate-webdriver": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costaprofunda/join-my-party.git"
+  },
+  "author": "CPro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costaprofunda/join-my-party/issues"
+  },
+  "homepage": "https://github.com/costaprofunda/join-my-party#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "jquery": "^3.2.1"
+  }
+}

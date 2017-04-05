@@ -1,0 +1,17 @@
+{
+  "name": "join-my-party-frontend",
+  "description": "Frontend for JoinMyParty",
+  "main": "joinMyApp/index.html",
+  "authors": [
+    "CPro"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/costaprofunda/join-my-party",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
